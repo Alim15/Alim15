@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
+
+My name is Alim. I studied physics and now have a bachelor's degree and a master's degree in physics. 
+Now I plan to study mathematics and computer science, computer science and computer engineering, and software engineering. I used to work as a testing engineer, and now I work as a junior Java developer.  
+
+Technologies:
+- Java
+<div align="center">
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+</div>
+
 
 <!--
 **Alim15/Alim15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
