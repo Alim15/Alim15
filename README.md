@@ -1,11 +1,11 @@
 ## Hi there! 👋
 
 My name is Alim. I studied physics and now have a bachelor's degree and a master's degree in physics. 
-Now I plan to study mathematics and computer science, computer science and computer engineering, and software engineering. I used to work as a testing engineer, and now I work as a junior Java developer.  
+Now I going to study mathematics and computer science, informatics and computer engineering, and software engineering. I used to work as a test engineer, and now I work as a Junior Java developer.  
 
 Technologies:
 - Java
-<div align="center">
+<div align="left">
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 </div>
 
