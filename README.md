@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 My name is Alim. I studied physics and now have a bachelor's degree and a master's degree in physics. 
-Now I going to study mathematics and computer science, informatics and computer engineering, and software engineering. I used to work as a test engineer, and now I work as a Junior Java developer.  
+Now I going to study mathematics and computer science, informatics and computer engineering, and software engineering. I used to work as a QA-engineer, and now I work as a Junior Java developer.  
 
 Technologies:
 
