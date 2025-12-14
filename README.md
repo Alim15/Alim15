@@ -2,7 +2,7 @@
 
 My name is Alim. I studied physics and now have a bachelor's degree and a master's degree in physics. I have finished National Research Kernel University «MEPHI».
 Now I going to study mathematics and computer science, informatics and computer engineering and software engineering. Also, I would like to continue studying physics and astronomy, mathematics and computer science, informatics and computer engineering and software engineering as postgraduate (Ph.D).
-I used to work as a QA-engineer, and now I work as a Junior Java developer.  
+I used to work as a QA-engineer, and now I work as a Intern Java developer.  
 
 Technology Stack:
 
